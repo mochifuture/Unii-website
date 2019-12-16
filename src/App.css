@@ -1,0 +1,65 @@
+:focus {
+  outline: 0;
+}
+
+.App {
+  text-align: center;
+  background-color: #000000;
+  color: #fff;
+}
+
+.Main {
+  padding-bottom: 300px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.unii {
+  margin-top: 100px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#games, #others{
+  height: 100vh;
+}
+
+.App-footer {
+  padding-bottom: 100px;
+}
+
+.icons-container {
+  padding: 20px 0;
+  /* position: absolute;
+  bottom: 10px; */
+}
+
+.icons {
+  height: 40px;
+  margin: 0 10px;
+}
+
+.icons-y {
+  width: 45px;
+  margin: 0 10px;
+}

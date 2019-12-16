@@ -1,0 +1,30 @@
+.Menu {
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #000000;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: #61dafb;
+}
+
+.App-menu {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+ul {
+  margin-block-start: 0;
+  padding-inline-start: 0;
+}

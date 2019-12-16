@@ -1,0 +1,25 @@
+.ButtonPageTop {
+  color: #fff;
+  margin: 10px auto;
+  padding: 10px 10px;
+  border: 1px solid gray;
+  width: 40px;
+  border-radius: 150px;
+  overflow: hidden !important;
+  -webkit-transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+  background: transparent !important;
+}
+
+.ButtonPageTop:hover {
+  color: #80ffd3 !important;
+  padding: 10px 10px;
+  border: 1px solid #80ffd3;
+  border-radius: 150px;
+  -webkit-transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}

@@ -1,0 +1,72 @@
+.TopPage {
+  text-align: center;
+  width: 100vw;
+  color: #fff;
+}
+
+.ContentsContainer {
+  height: 100vh;
+}
+
+.sounds {
+  height: 100%;
+}
+
+.iframes {
+  display:flex;
+  width: 100vw;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.iframe-videos {
+  width: 500;
+  height: 300;
+}
+
+.flex-container {
+  display:flex;
+  justify-content: center;
+}
+
+.flexcontents {
+  padding: 10px;
+}
+
+h2 {
+  margin-top: 100px;
+}
+
+p {
+  font-size: 0.7em;
+}
+
+.profile{
+  font-size: 1em;
+  /* width: 600px; */
+  padding: 0 100px;
+}
+
+.bandcampiframes{
+  border: 0;
+  width: 250px;
+  height: 470px;
+}
+
+.flex-container {
+  display:flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+.archives {
+  display:flex;
+  justify-content: center;
+}
+
+.archives_frame {
+  border: 1px solid pink;
+  height: 600px;
+  width: 800px;
+  padding: 15px;
+}

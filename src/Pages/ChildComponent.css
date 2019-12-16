@@ -1,0 +1,7 @@
+.Child {
+  text-align: center;
+  background-color: #000000;
+  color: #fff;
+  height:600px;
+  overflow: auto;
+}
