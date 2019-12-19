@@ -5,3 +5,7 @@
   height:600px;
   overflow: auto;
 }
+
+img {
+  max-width: 100%;
+}
