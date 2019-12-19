@@ -17,7 +17,7 @@ function App() {
 
       <Router>
         <header className="App-header" id="top">
-          <img src={berga} width="700"></img>
+          <img src={berga} className="main-img"></img>
         </header>
 
         <div className="Main">

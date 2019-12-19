@@ -1,5 +1,10 @@
-img {
+img, !icons {
   max-width: 100%;
+  margin: 0;
+}
+
+iframe {
+  margin: 10px;
 }
 
 .TopPage {
@@ -28,14 +33,24 @@ img {
   height: 400px;
   border: 0;
 }
+.bandcampiframes-for-phone {
+  max-width: 90%;
+  height: 250px;
+  border: 0;
+}
 
 .videos {
-  width: 390px;
+  width: 340px;
   height: 230px;
 }
 
-.collabo {
-  max-width: 200px;
+.videos-for-pc {
+  width: 500px;
+  height: 360px;
+}
+
+.img-collabo {
+  width: 90%;
 }
 
 .profilecentens {
